@@ -1,6 +1,6 @@
 module github.com/RaihanMalay21/models_TB_Berkah_Jaya
 
-go 1.22.2
+go 1.21.5
 
 require gorm.io/gorm v1.25.11
 
